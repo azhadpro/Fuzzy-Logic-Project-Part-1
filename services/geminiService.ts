@@ -45,7 +45,7 @@ const RESPONSE_SCHEMA: Schema = {
 };
 
 export const analyzePortfolio = async (field: FieldOfStudy, csvContent: string): Promise<AnalysisResult> => {
-  const apiKey = process.env.API_KEY;
+  const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
     throw new Error("API Key is missing");
   }
