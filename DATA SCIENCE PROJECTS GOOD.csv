@@ -1,0 +1,6 @@
+Project Name,Description,Field
+Customer Churn Prediction,ML classification model with feature engineering,Data Science
+Movie Recommendation System,Collaborative filtering system with evaluation metrics,Data Science
+Sales Forecasting,Time-series ARIMA and LSTM comparison,Data Science
+Loan Default Prediction,Model training + ROC/AUC analysis with clean dataset,Data Science
+Sentiment Analysis Tool,NLP preprocessing + ML classification,Data Science

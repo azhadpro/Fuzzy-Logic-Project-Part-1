@@ -1,0 +1,6 @@
+Project Name,Description,Field
+MyFirstWebsite,Simple HTML page with text and images only,Software Engineering
+ToDoListV1,Very basic Python console program that stores tasks in a list,Software Engineering
+StudentInfoForm,Single-page form without backend or validation,Software Engineering
+ClickTheButtonGame,A button that increments a counter with no extra features,Software Engineering
+SimpleLoginUI,Frontend-only login screen with no database or logic,Software Engineering

@@ -1,0 +1,6 @@
+Project Name,Description,Field
+StudentScoresGraph,Plots a bar chart of marks without analysis,Data Science
+SimpleDatasetSummary,Shows mean and median only with no explanation,Data Science
+RandomDataProject,Generates random numbers and prints them,Data Science
+WeatherDataSorter,Sorts CSV rows but no analysis or modeling,Data Science
+KaggleCopyAttempt,Uses a Kaggle notebook without adding modifications,Data Science

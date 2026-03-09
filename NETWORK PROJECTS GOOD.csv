@@ -1,0 +1,6 @@
+Project Name,Description,Field
+Enterprise Network Simulation,"VLANs, routing, ACLs, and DHCP using Packet Tracer",Network
+Secure Campus WiFi Design,"WPA3, segmentation, RADIUS authentication setup",Network
+Firewall and IDS Lab,Configured pfSense and Snort with attack detection,Network
+Redundant Network Topology,HSRP/VRRP failover with load balancing,Network
+Network Monitoring System,Zabbix/PRTG dashboard with automated alerts,Network

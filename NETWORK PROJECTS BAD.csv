@@ -1,0 +1,6 @@
+Project Name,Description,Field
+BasicRouterSetup,Mostly logging in to a router and changing the password,Network
+SimpleLANDesign,A drawing of a network topology without configuration,Network
+PingTestProject,Testing ping between two PCs only,Network
+HomeWiFiOverview,Explains how the home WiFi works without real setup,Network
+SwitchConnectionDemo,Connecting PCs to a switch without VLAN or routing,Network
